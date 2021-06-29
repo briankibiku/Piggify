@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "832849258233",
+    "firebase_url": "https://piggify-c6432.firebaseio.com",
+    "project_id": "piggify-c6432",
+    "storage_bucket": "piggify-c6432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832849258233:android:e8085e01a9675d2c84e428",
+        "android_client_info": {
+          "package_name": "com.b2k.piggify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832849258233-9bkspv4e6dqh9n0o95sgikbknsk3ou6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVe8oFaYVZo2-q8KAviwolZfX0l0qQRfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832849258233-9bkspv4e6dqh9n0o95sgikbknsk3ou6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
